@@ -1,2 +1,3 @@
 # PexZhao
-internship in Intellif in Shenzhen 
+Student in ANU, Canberra, Australia
+major in master of computing.
